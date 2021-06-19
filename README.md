@@ -1,7 +1,7 @@
 # Stance-Detection
-**Additional Readings for Stance Detection: 
+**Additional Readings for Stance Detection: **
 
-[Supplementary Material to the Our Following Tutorial @ SIGIR 2021]**
+**[This PDF File Includes Supplementary Material to the Our Following Tutorial @ SIGIR 2021]**
 
 Dilek Küçük and Fazli Can. 2021. **Stance Detection: Concepts, Approaches,
 Resources, and Outstanding Issues**. In Proceedings of the 44th International
