@@ -1,5 +1,5 @@
 # Stance-Detection
-**Additional Readings for Stance Detection:**
+**Additional Readings for Stance Detection**
 
 **[This PDF File Includes Supplementary Material to the Our Following Tutorial @ SIGIR 2021]**
 
